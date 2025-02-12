@@ -17,13 +17,39 @@ This lab will demonstrate the use of Wazuh HIDS and agent to capture network tra
 <img src="https://i.imgur.com/NvH0Kal.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">
+<p align="center">creating key.txt file that will contain the Agent key. 
 <br/>
 <img src="https://i.imgur.com/GMSAjNg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">
+<p align="center">Copying the key.txt file into the shared folder on 10.10.1.16
 <br/>
 <img src="https://i.imgur.com/bsYP7lI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">Configuring the firewall to communicate with the agent
+<br/>
+<img src="https://i.imgur.com/TSrTMic.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">Installing Wazuh agent on WebServer machine
+<br/>
+<img src="https://i.imgur.com/iRfQUMu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">Restarting Wazuh
+<br/>
+<img src="https://i.imgur.com/Oo8DdvY.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">Verifying that the agent is active
+<br/>
+<img src="https://i.imgur.com/yMh3Hyy.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">Configuring the firewall to communicate with the agent
+<br/>
+<img src="https://i.imgur.com/TSrTMic.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
