@@ -8,9 +8,9 @@ This lab will demonstrate the use of Wazuh HIDS and agent to capture network tra
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
+<p align="center">Adding the webserver 10.10.1.16 machine as Wazuh agent
 <br/>
-<img src="https://i.imgur.com/me2Zky8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/55MK1xc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="center">
 <br/>
