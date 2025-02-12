@@ -12,13 +12,18 @@ This lab will demonstrate the use of Wazuh HIDS and agent to capture network tra
 <br/>
 <img src="https://i.imgur.com/55MK1xc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
-<p align="center">
+<p align="center">Extract the Agent key
 <br/>
-<img src="https://i.imgur.com/QOjcnJc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NvH0Kal.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/XjjgHpe.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GMSAjNg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/bsYP7lI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
