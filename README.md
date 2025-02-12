@@ -1,4 +1,4 @@
-<h1>Implement Host-based IDS functionality using Wazuh HIDS and Sguil</h1>
+<h1>Implement Host-based IDS functionality using Wazuh HIDS</h1>
 
  ## [Video Demonstration](https://drive.google.com/file/d/1Y5gEA6FMT6xhZWAioCGLsOSGqLOF9wkO/view?usp=sharing)
 
