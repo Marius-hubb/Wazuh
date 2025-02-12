@@ -48,8 +48,13 @@ This lab will demonstrate the use of Wazuh HIDS and agent to capture network tra
 <img src="https://i.imgur.com/yMh3Hyy.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">Performing a brute-forece attack or RDP service runnng on 10.10.1.16 using hydra
+<p align="center">Performing brute-forece attack via RDP on WebServer 10.10.1.16 using hydra
 <br/>
 <img src="https://i.imgur.com/jO3iBMC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">We can observe the alert for Dst IP 10.10.1.16.
+<br/>
+<img src="https://i.imgur.com/f0e8aHo.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
