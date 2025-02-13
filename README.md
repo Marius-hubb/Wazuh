@@ -1,6 +1,6 @@
 <h1>Implement Host-based IDS functionality using Wazuh HIDS</h1>
 
- ## [Video Demonstration](https://drive.google.com/file/d/1bmvQORkCRQJLOKtMBQEgJbIlThoKNk2l/view?usp=sharing)
+ ## [Video Demonstration (12:31)](https://drive.google.com/file/d/1bmvQORkCRQJLOKtMBQEgJbIlThoKNk2l/view?usp=sharing)
 
 <h2>Description</h2>
 This lab will demonstrate the use of Wazuh HIDS and agent to capture network traffic and show how to monitor the captured traffic for malicious activities in Sguil.<br />
